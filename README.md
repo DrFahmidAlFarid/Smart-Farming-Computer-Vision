@@ -10,6 +10,13 @@ Research hub for **computer vision, deep learning and explainable AI in agricult
 - Agricultural IoT and intelligent monitoring
 - Explainable AI for plant-health decisions
 
+## Verified publications to anchor this hub
+- **Improving Wheat Leaf Disease Classification: Evaluating Augmentation Strategies and CNN-Based Models With Limited Dataset** — IEEE Access (2024), DOI: https://doi.org/10.1109/ACCESS.2024.3397570
+- **FICNet: A Deep Learning Framework for Intrusion Detection in Agricultural Internet of Things** — CMES (2026), DOI: https://doi.org/10.32604/cmes.2026.081254
+- **An ROI-Guided Optimized Machine Learning Framework for Orange Disease Recognition with Feature Selection and Explainability** — Computers, Materials & Continua (2026), DOI: https://doi.org/10.32604/cmc.2026.083167
+
+At present, these publication records are linked as scholarly anchors; code is not claimed here unless a public implementation can be verified and its ownership/reuse terms are clear.
+
 ## Repository roadmap
 This hub will index publication-linked code, datasets, notebooks and reproducibility material that can be shared legitimately. Substantial original projects may later move to dedicated paper-specific repositories while remaining indexed here.
 
